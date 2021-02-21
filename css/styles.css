@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color:#007bff;
   text-decoration: none;
   background-color: transparent;
 }
@@ -373,6 +373,7 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 3.5rem;
+  color: #007bff;
 }
 
 h3, .h3 {
@@ -9778,7 +9779,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: rgb(0,132,255) !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10034,7 +10035,7 @@ p.lead {
     left: 0;
     display: flex;
     flex-direction: column;
-    width: 17rem;
+    width: 18rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -10082,7 +10083,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color:#007bff;
 }
 
 .dev-icons {
